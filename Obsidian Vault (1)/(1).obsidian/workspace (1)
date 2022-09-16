@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "6a0e420378048e7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6aaf4c046fdef1a8",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e049a8336b1685e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c21e0bfc81c4200",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "663b9a368613ea61",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "167b62fcf1b16cd7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79c39aa60c032107",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5
+  },
+  "right": {
+    "id": "98220e693d4d4854",
+    "type": "split",
+    "children": [
+      {
+        "id": "28a0ad81507bd642",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "856b560978718022",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "333f1a118843f3f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "287efc54fe0f3c6f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequencyReverse",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "466caf8a421e6e3c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.5
+  },
+  "active": "663b9a368613ea61",
+  "lastOpenFiles": [
+    "Storage_of_articles/The King's Indian Defense - How to Play the King's Indian as Black.md",
+    "Chess/Openings/King's Indian/King's Indian Theory.md",
+    "Chess/Openings/1. e4 c5 openings/Sicilian Theory.md",
+    "Storage_of_articles/Avetik_ChessMood's Blog • Latvian Gambit  The Refutation • lichess.org.md",
+    "Chess/Openings/1. e4 e5 openings/Refutation of Obscure Gambits/Latvian Gambit Refutation.md",
+    "Chess/Openings/1. e4 e5 openings/Scotch Game Theory/All the Theory.md",
+    "Chess/Endgames/All of Endgames.md",
+    "Untitled.md",
+    "Storage_of_articles/Scotch Game (How To Play It, Attack It, And Counter It).md",
+    "Chess/Openings/1. e4 e5 openings/Refutation of Obscure Gambits/Stafford Gambit Refutation.md"
+  ]
+}

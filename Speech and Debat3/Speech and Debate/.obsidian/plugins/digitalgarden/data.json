@@ -1,0 +1,14 @@
+{
+  "githubRepo": "PF_Sept_Oct_2022",
+  "githubToken": "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",
+  "githubUserName": "pythoncrazy2",
+  "gardenBaseUrl": "",
+  "prHistory": [],
+  "theme": "dark",
+  "baseTheme": "{\"name\": \"default\", \"modes\": [\"dark\"]}",
+  "faviconPath": "",
+  "defaultNoteSettings": {
+    "dgHomeLink": true,
+    "dgPassFrontmatter": false
+  }
+}
