@@ -1,1 +1,0 @@
-https://www.zenrows.com/blog/bypass-cloudflare#what-is-cloudflare-bot-management
