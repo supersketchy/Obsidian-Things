@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "ed167a746ebc10e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7cd851db9a2ec95",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Digital Garden Home.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b88356d8c2084580",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0bac91f53b220a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f9aac3737960100",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "652371c28971faf1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "617badcb6c9a4f04",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7d0c34586080c2d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "518e62884f6137a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f824a74305d886c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Digital Garden Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d50dc24d3696dae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Digital Garden Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5be775d2ee8b3a50",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c217d7698c88f36a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Digital Garden Home.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b7cd851db9a2ec95",
+  "lastOpenFiles": [
+    "AFF/Contentions/Economic Stimulation/High-Speed Rail Furthers Economic Justice.md",
+    "Digital Garden Home.md",
+    "AFF/Cards/Contention 1/Station location is important for addressing racial inequality.md"
+  ]
+}

@@ -1,0 +1,1 @@
+All news articles that have been annotated have been renamed to ANNOTATED_Article name. Every other article will thus start with B_Article name

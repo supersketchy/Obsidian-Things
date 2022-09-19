@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "4d86b0e8444e6036",
+    "type": "split",
+    "children": [
+      {
+        "id": "15b73bce0203d44d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Article Storage/How to bypass Cloudflare.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd654151ebc0c672",
+    "type": "split",
+    "children": [
+      {
+        "id": "d05d252b8e27ba00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d394ac4d69dddbd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "652749282b790832",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e2b7fd4f9419a51",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5a4aee5c3e5fd4bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "41020df05e489f3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca262ee83d2d5746",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Article Storage/How to bypass Cloudflare.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63ae5a37b4f52697",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Article Storage/How to bypass Cloudflare.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a70705b95263c411",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f570a63e66111aa0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Article Storage/How to bypass Cloudflare.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "15b73bce0203d44d",
+  "lastOpenFiles": [
+    "From HackerNews/September2022/B_How to bypass Cloudflare.md",
+    "Article Storage/How to bypass Cloudflare.md",
+    "From HackerNews/README.md"
+  ]
+}
