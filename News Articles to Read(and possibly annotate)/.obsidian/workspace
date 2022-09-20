@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< Updated upstream
             "file": "Organized by Date/2022-09-20.md",
+=======
+            "file": "Organized by Date/September2022/2022-09-19.md",
+>>>>>>> Stashed changes
             "mode": "source",
             "source": false
           }
@@ -77,7 +81,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Organized by Date/2022-09-20.md",
+=======
+                "file": "Organized by Date/September2022/2022-09-19.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +102,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Organized by Date/2022-09-20.md",
+=======
+                "file": "Organized by Date/September2022/2022-09-19.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Organized by Date/2022-09-20.md"
+=======
+                "file": "Organized by Date/September2022/2022-09-19.md"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -128,12 +144,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "15b73bce0203d44d",
+  "active": "5d394ac4d69dddbd",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Useful extensions and software/MarkDown download.md",
     "Organized by Date/2022-09-20.md",
     "Organized by Date/Untitled.md",
     "Organized by Date/2022-09-19.md",
+=======
+    "Organized by Date/September2022/2022-09-18.md",
+    "Article Storage/Gen Z Never Learned to Read Cursive - The Atlantic.md",
+>>>>>>> Stashed changes
     "From HackerNews/B_College Board Ran an account.md",
     "From HackerNews/B_How to bypass Cloudflare.md",
     "From HackerNews/README.md",
