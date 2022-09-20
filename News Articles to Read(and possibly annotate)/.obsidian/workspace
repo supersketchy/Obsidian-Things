@@ -7,8 +7,12 @@
         "id": "15b73bce0203d44d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Organized by Date/2022-09-20.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Organized by Date/2022-09-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Organized by Date/2022-09-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Organized by Date/2022-09-20.md"
+              }
             }
           }
         ]
@@ -122,6 +130,9 @@
   },
   "active": "15b73bce0203d44d",
   "lastOpenFiles": [
+    "Useful extensions and software/MarkDown download.md",
+    "Organized by Date/2022-09-20.md",
+    "Organized by Date/Untitled.md",
     "Organized by Date/2022-09-19.md",
     "From HackerNews/B_College Board Ran an account.md",
     "From HackerNews/B_How to bypass Cloudflare.md",
