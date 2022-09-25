@@ -1,37 +1,29 @@
 {
   "main": {
-    "id": "4d86b0e8444e6036",
+    "id": "5872449a12598232",
     "type": "split",
     "children": [
       {
-        "id": "15b73bce0203d44d",
+        "id": "e1eddd28246553f5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-<<<<<<< Updated upstream
-            "file": "Organized by Date/2022-09-20.md",
-=======
-            "file": "Organized by Date/September2022/2022-09-19.md",
->>>>>>> Stashed changes
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "dd654151ebc0c672",
+    "id": "0cacd28107d707e3",
     "type": "split",
     "children": [
       {
-        "id": "d05d252b8e27ba00",
+        "id": "7981f45ff081d706",
         "type": "tabs",
         "children": [
           {
-            "id": "5d394ac4d69dddbd",
+            "id": "82a0792c261fa5e2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +31,7 @@
             }
           },
           {
-            "id": "652749282b790832",
+            "id": "9e76ad8725472664",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +46,7 @@
             }
           },
           {
-            "id": "3e2b7fd4f9419a51",
+            "id": "6a1065c96d62ac33",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -68,24 +60,19 @@
     "width": 300
   },
   "right": {
-    "id": "5a4aee5c3e5fd4bf",
+    "id": "e638cf5043980a48",
     "type": "split",
     "children": [
       {
-        "id": "41020df05e489f3e",
+        "id": "693bb7d895facc74",
         "type": "tabs",
         "children": [
           {
-            "id": "ca262ee83d2d5746",
+            "id": "0c44533007285070",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Organized by Date/2022-09-20.md",
-=======
-                "file": "Organized by Date/September2022/2022-09-19.md",
->>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,23 +84,18 @@
             }
           },
           {
-            "id": "63ae5a37b4f52697",
+            "id": "8a217be4487d9c79",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Organized by Date/2022-09-20.md",
-=======
-                "file": "Organized by Date/September2022/2022-09-19.md",
->>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a70705b95263c411",
+            "id": "54e400bc3225a0c4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -124,17 +106,11 @@
             }
           },
           {
-            "id": "f570a63e66111aa0",
+            "id": "ba184481cd682ba5",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "Organized by Date/2022-09-20.md"
-=======
-                "file": "Organized by Date/September2022/2022-09-19.md"
->>>>>>> Stashed changes
-              }
+              "state": {}
             }
           }
         ]
@@ -144,22 +120,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5d394ac4d69dddbd",
+  "active": "e1eddd28246553f5",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "Useful extensions and software/MarkDown download.md",
-    "Organized by Date/2022-09-20.md",
-    "Organized by Date/Untitled.md",
-    "Organized by Date/2022-09-19.md",
-=======
+    "Organized by Date/Dates/September_2022/2022-09-22.md",
+    "Organized by Date/Dates/September_2022/2022-09-23.md",
+    "Organized by Date/Dates/September_2022/2022-09-19.md",
+    "Organized by Date/Dates/September_2022/2022-09-20.md",
+    "Organized by Date/Every Day linked.md",
+    "From HackerNews/B_Facebook Proven to Negatively Impact Mental Health.md",
     "Organized by Date/September2022/2022-09-18.md",
-    "Article Storage/Gen Z Never Learned to Read Cursive - The Atlantic.md",
->>>>>>> Stashed changes
-    "From HackerNews/B_College Board Ran an account.md",
-    "From HackerNews/B_How to bypass Cloudflare.md",
-    "From HackerNews/README.md",
-    "From HackerNews/B_Gen Z never learned cursive.md",
-    "Article Storage/How to Bypass Cloudflare A Comprehensive Guide - ZenRows.md",
-    "Article Storage/How to bypass Cloudflare.md"
+    "Organized by Date/September2022/2022-09-19.md"
   ]
 }
