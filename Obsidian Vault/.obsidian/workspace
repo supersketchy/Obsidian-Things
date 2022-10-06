@@ -7,7 +7,7 @@
         "id": "5e0ae444c7b62d52",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -121,5 +121,10 @@
     "collapsed": true
   },
   "active": "5e0ae444c7b62d52",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Chess/Openings (1)/1. e4 e5 openings (1)/Scotch Game Theory (1)/All the Theory (1).md",
+    "Chess/Openings (1)/1. e4 e5 openings (1)/Refutation of Obscure Gambits (1)/Elephant Gambit Refutation.md",
+    "Chess/Openings (1)/1. e4 c5 openings (1)/Sicilian Theory (1).md",
+    "Chess/Openings (1)/1. e4 e5 openings (1)/Refutation of Obscure Gambits (1)/Latvian Gambit Refutation (1).md"
+  ]
 }
