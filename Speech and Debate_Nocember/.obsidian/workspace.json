@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "1d98463e0e6374c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "93a91c4ea8f352b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de8fe54a3ce0ae21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Debrief.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bddee5589dd9f27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AFF Args.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a086907e373421b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Debrief.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fac96c8f51d868b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "994f465847582627",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5895e2a6743f4251",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c0bc9b0937cf1e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b980eac0296adb4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6ad03f7768e75780",
+    "type": "split",
+    "children": [
+      {
+        "id": "31c7953c1f8851ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "120dc681d54efab7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Debrief.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4026d944160eca4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Debrief.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c48aaccbe3e2c4e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "14c114216fc08937",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Debrief.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "de8fe54a3ce0ae21",
+  "lastOpenFiles": [
+    "NEG Args.md",
+    "AFF Args.md",
+    "Briefs.md",
+    "Topic.md",
+    "Debrief.md"
+  ]
+}

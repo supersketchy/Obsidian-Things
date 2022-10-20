@@ -1,0 +1,1 @@
+Resolved: The United States strategy of Great Power (GPC) competition produces more benefits than harms.
