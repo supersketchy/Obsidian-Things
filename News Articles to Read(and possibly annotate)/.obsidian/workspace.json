@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "5872449a12598232",
+    "type": "split",
+    "children": [
+      {
+        "id": "58d39f03cb88ae71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14984579a6925838",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "From HackerNews/README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0cacd28107d707e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7981f45ff081d706",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82a0792c261fa5e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9e76ad8725472664",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a1065c96d62ac33",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.5
+  },
+  "right": {
+    "id": "e638cf5043980a48",
+    "type": "split",
+    "children": [
+      {
+        "id": "693bb7d895facc74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c44533007285070",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "From HackerNews/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a217be4487d9c79",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "From HackerNews/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54e400bc3225a0c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ba184481cd682ba5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "From HackerNews/README.md"
+              }
+            }
+          },
+          {
+            "id": "2138b2f8766bc97a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "14984579a6925838",
+  "lastOpenFiles": [
+    "Article Storage/You don’t want to be on Cloudflare’s naughty list  Ctrl blog.md",
+    "Article Storage/Why Kids Are Afraid to Ask for Help - Scientific American.md",
+    "Article Storage/Gen Z Never Learned to Read Cursive - The Atlantic.md",
+    "Article Storage/GeForce RTX 40 Series Graphics Cards  NVIDIA.md",
+    "Article Storage/Chess Is Just Poker Now - The Atlantic.md",
+    "From HackerNews/B_RTX 40 series.md",
+    "From HackerNews/B_Why Kids are afraid to ask for help.md",
+    "From HackerNews/README.md",
+    "Organized by Date/Dates/September_2022/2022-09-19.md",
+    "Organized by Date/Dates/2022-10-21.md"
+  ]
+}

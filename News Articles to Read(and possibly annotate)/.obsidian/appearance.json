@@ -1,6 +1,7 @@
 {
   "enabledCssSnippets": [],
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "translucency": true,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "accentColor": "#0018aa"
 }
