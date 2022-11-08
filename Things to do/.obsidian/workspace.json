@@ -1,54 +1,39 @@
 {
   "main": {
-    "id": "5872449a12598232",
+    "id": "3b2f624e67c48bef",
     "type": "split",
     "children": [
       {
-        "id": "58d39f03cb88ae71",
+        "id": "7dc36d45edd608f7",
         "type": "tabs",
         "children": [
           {
-            "id": "14984579a6925838",
+            "id": "311b72080e94d098",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "From HackerNews/B_College Board Ran an account.md",
+                "file": "2022-11-06.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2aca8de5714a1be1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organized by Date/Dates/2022-10-30.md",
-                "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0cacd28107d707e3",
+    "id": "d7c83f622b7f2780",
     "type": "split",
     "children": [
       {
-        "id": "7981f45ff081d706",
+        "id": "11a191b31ebd496d",
         "type": "tabs",
         "children": [
           {
-            "id": "82a0792c261fa5e2",
+            "id": "335f70d84eaa563b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +43,7 @@
             }
           },
           {
-            "id": "9e76ad8725472664",
+            "id": "13a21d355a7b4859",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -73,7 +58,7 @@
             }
           },
           {
-            "id": "6a1065c96d62ac33",
+            "id": "08d245d3bfa092a4",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -84,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 300
   },
   "right": {
-    "id": "e638cf5043980a48",
+    "id": "33744b17d03e9c2f",
     "type": "split",
     "children": [
       {
-        "id": "693bb7d895facc74",
+        "id": "956104ef6e766193",
         "type": "tabs",
         "children": [
           {
-            "id": "0c44533007285070",
+            "id": "e98bf6496e898d99",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organized by Date/Dates/2022-10-30.md",
+                "file": "2022-11-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,19 +97,19 @@
             }
           },
           {
-            "id": "8a217be4487d9c79",
+            "id": "bc0701accc2aae48",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organized by Date/Dates/2022-10-30.md",
+                "file": "2022-11-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "54e400bc3225a0c4",
+            "id": "e5ff33351ec694bc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,21 +120,13 @@
             }
           },
           {
-            "id": "ba184481cd682ba5",
+            "id": "ba012debe0689cb8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organized by Date/Dates/2022-10-30.md"
+                "file": "2022-11-06.md"
               }
-            }
-          },
-          {
-            "id": "2138b2f8766bc97a",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ]
@@ -159,20 +136,6 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "2aca8de5714a1be1",
-  "lastOpenFiles": [
-    "Organized by Date/Dates/October_2022/2022-10-24.md",
-    "Organized by Date/Dates/October_2022/2022-10-21.md",
-    "From HackerNews/B_Sports betting.md",
-    "From HackerNews/B_College Board Ran an account.md",
-    "From HackerNews/README.md",
-    "Article Storage/You don’t want to be on Cloudflare’s naughty list  Ctrl blog.md",
-    "Article Storage/Why Kids Are Afraid to Ask for Help - Scientific American.md",
-    "Article Storage/Gen Z Never Learned to Read Cursive - The Atlantic.md",
-    "Article Storage/GeForce RTX 40 Series Graphics Cards  NVIDIA.md",
-    "Article Storage/Chess Is Just Poker Now - The Atlantic.md"
-  ]
+  "active": "311b72080e94d098",
+  "lastOpenFiles": []
 }
